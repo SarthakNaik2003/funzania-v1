@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Brain, Globe, Rocket, Puzzle } from 'lucide-react';
-import kidsImage from '../assets/kids.png';
+import kidsImage from '../assets/kids.webp';
 
 const Hero = () => {
     return (
