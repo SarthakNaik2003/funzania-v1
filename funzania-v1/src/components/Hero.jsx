@@ -34,9 +34,14 @@ const Hero = () => {
                         <button className="bg-[#22c55e] hover:bg-[#16a34a] text-white text-xl px-8 py-4 rounded-full font-black shadow-[0_6px_0_#15803d] active:shadow-none active:translate-y-1 transition-all border-2 border-[#86efac]">
                             Book Free Demo Class
                         </button>
-                        <button className="bg-[#fbbf24] hover:bg-[#f59e0b] text-purple-900 text-xl px-10 py-4 rounded-full font-black shadow-[0_6px_0_#d97706] active:shadow-none active:translate-y-1 transition-all border-2 border-[#fde047]">
+                        <a
+                            href="https://wa.me/919377023088?text=Hi%20Funzania!%20I%20would%20like%20to%20enroll%20my%20child."
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-block text-center bg-[#fbbf24] hover:bg-[#f59e0b] text-purple-900 text-xl px-10 py-4 rounded-full font-black shadow-[0_6px_0_#d97706] active:shadow-none active:translate-y-1 transition-all border-2 border-[#fde047]"
+                        >
                             Enroll Now
-                        </button>
+                        </a>
                     </div>
                 </div>
 
